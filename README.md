@@ -1,3 +1,4 @@
+(Graph)[https://github.com/Eddy-Arch/anime-name-gen/blob/master/data/anime/plot.png]
 # Anime Name Generator
 This project aims to use AI to generate novel anime chracter names.
 The project is a fork of [makemore](https://github.com/karpathy/makemore).

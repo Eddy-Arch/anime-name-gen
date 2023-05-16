@@ -60,3 +60,61 @@ which the loss function was at at the step.
 
 btw, the data in data/ must be deleted when retraining the models,
 so that accurate training data is written.
+
+## Sample output
+A sample model pretrained to about 400,000 steps has been provided
+for you.
+heres a sample of its output.
+```bash
+Rika Hiyama
+Reiko Ayatsuki
+Rio Mishima
+Ryo Hayashima
+Taku Aohara
+Epliot Grand
+Watsyon
+Oldino Ueçley
+Yukiko Takatou
+Mahoru Ishidori
+Saya Katou
+Naomi Hasemi
+Kiona Katou
+Patricia Lamiz
+Claude Simmel
+Takahiro Kokiwa
+Seri Kobe
+Ron Werne
+Ra Fei Lawley
+Yui Asena
+Riku Hirosaki
+Aoi Katsuragi
+Misaki Kurato
+Jial Alcard
+Izumi Itou
+Aya Shiraishi
+Mari Ochamada
+Toaru Kawanaka
+Shizue Uwamiki
+Kaoru Daizen
+Maron Machidou
+Tokitoshi Ogata
+Sou Kanneya
+Shiho Houji Chuuraqulie
+Williball Quinn
+Taisuke Mihara
+Ai Nohnamatsu
+Arthur Caon
+Chizu Akaneda
+Akira Asu
+Cholly Mayko
+Lorgu Guenbaken
+Shiharu Ryu
+Hayate Belruca
+Ryo Inui
+Domina Sagara
+Elviria Addrowlt
+Sei Yahinaria
+```
+Some of the anime names are still quite bad, but most of them
+sound like legitimate anime character names, that are brand new
+and are not a part of the training set.
